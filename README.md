@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on : WEB 3.0 Ecosystem<br>👯 I’m looking to collaborate on : Machine Learning and Cryptography algorithm based projects.<br>🤝 I’m looking for help with : Mobile (Android and IOS) development for our WEB 3.0 ecosystem.<br>🌱 I’m currently learning : Prompt Engineering, Quantum Computing with Cryptography.<br>💬 Ask me about : Java development, Machine Learning, and Microservices with Data Science.<br>⚡ Fun fact : I am so into Astrophysics and Computational Physics.
+🔭 I’m currently working on : WEB 3.0 Ecosystem and Chess with Min-Max Bot<br>👯 I’m looking to collaborate on : Machine Learning and Cryptography algorithm based projects.<br>🤝 I’m looking for help with : Mobile (Android and IOS) development for our WEB 3.0 ecosystem.<br>🌱 I’m currently learning : Prompt Engineering, Quantum Computing with Cryptography.<br>💬 Ask me about : Java development, Machine Learning, and Microservices with Data Science.<br>⚡ Fun fact : I am so into Astrophysics and Computational Physics.
 
 
 ## 🌐 Socials:
