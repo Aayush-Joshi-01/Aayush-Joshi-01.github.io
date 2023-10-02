@@ -25,5 +25,4 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aayush-Joshi-01&icon=0&color=12)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=Aayush-Joshi-01&label=Profile%20Views&icon=3&pretty=false)](https://visitcount.itsvg.in)
